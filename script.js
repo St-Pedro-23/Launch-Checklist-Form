@@ -57,8 +57,8 @@ window.addEventListener("load", function(){
                let launchStatusUpdate = document.getElementById("launchStatus");
                launchStatusUpdate.innerHTML ="Shuttle is ready for launch";
            } 
-   })
-})
+   });
+});
 
 /* This block of code shows how to format the HTML once you fetch some planetary JSON!
 <h2>Mission Destination</h2>
